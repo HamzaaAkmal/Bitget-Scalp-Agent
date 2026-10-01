@@ -1,6 +1,6 @@
 # Core LLM & Orchestration
 rich>=13.0.0
-prompt_toolkit>=3.0.0
+prompt_toolkit>=3.0.53
 pyyaml>=6.0.0
 langchain>=1.3.9,<2
 langchain-core>=1.0.0,<2
